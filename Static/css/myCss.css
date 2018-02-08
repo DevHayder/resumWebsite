@@ -1,0 +1,59 @@
+
+.backoimgo{
+    background-image: url("../img/bg1.jpg");
+    background-attachment: fixed;
+}
+
+.nameText{
+
+    text-align: center;
+    color: #000000;
+
+}
+.card-title {
+    font-size: 50px;
+    font-family: Arial, Helvetica,  sans-serif;
+    
+}
+.card-text{
+
+    font-size: 40px;
+    font-family: Arial, Helvetica,  sans-serif;
+
+}
+.container{
+    padding-bottom: 20px;
+}
+
+.jumbotron{
+  
+        background-image: url("../img/bg1.jpg");
+        background-repeat: no-repeat;
+        height: 50%;
+        width: 100%;
+        padding-bottom: 17%;
+        color: aliceblue;
+        background-attachment: fixed;
+        margin-bottom: 10px;
+        
+ 
+
+    
+}
+.hrO { 
+    display: block;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    color: #000000;
+} 
+.badge-light{
+    margin-left: 5px;
+}
+.paddoMedia{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
